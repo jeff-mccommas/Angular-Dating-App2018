@@ -1,0 +1,14 @@
+/Users/jeffreymccommas/Downloads/Source Code/Module 17/After/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.deps.json
+/Users/jeffreymccommas/Downloads/Source Code/Module 17/After/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.json
+/Users/jeffreymccommas/Downloads/Source Code/Module 17/After/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.dev.json
+/Users/jeffreymccommas/Downloads/Source Code/Module 17/After/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.dll
+/Users/jeffreymccommas/Downloads/Source Code/Module 17/After/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.pdb
+/Users/jeffreymccommas/Downloads/Source Code/Module 17/After/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csprojAssemblyReference.cache
+/Users/jeffreymccommas/Downloads/Source Code/Module 17/After/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/jeffreymccommas/Downloads/Source Code/Module 17/After/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cache
+/Users/jeffreymccommas/Downloads/Source Code/Module 17/After/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cs
+/Users/jeffreymccommas/Downloads/Source Code/Module 17/After/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfoInputs.cache
+/Users/jeffreymccommas/Downloads/Source Code/Module 17/After/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfo.cs
+/Users/jeffreymccommas/Downloads/Source Code/Module 17/After/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorTargetAssemblyInfo.cache
+/Users/jeffreymccommas/Downloads/Source Code/Module 17/After/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.dll
+/Users/jeffreymccommas/Downloads/Source Code/Module 17/After/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.pdb
